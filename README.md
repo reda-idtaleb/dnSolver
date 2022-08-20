@@ -1,6 +1,6 @@
 # dnSolver Project
-Author: Réda ID-TALEB
-Date: 03 March 2021
+- Author: Réda ID-TALEB
+- Date: 03 March 2021
 
 # Context
 DNS is a distributed hierarchical system for translating symbolic addresses into IP addresses. Information is stored on servers organized into hierarchical domains. Thus, a server can delegate part of the domain names to a subordinate server.
